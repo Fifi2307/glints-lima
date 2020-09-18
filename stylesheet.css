@@ -179,3 +179,10 @@ footer {
   background-color: #2f5167;
   width: 100%
 }
+
+.footer-list{
+  float: right;
+}
+.footer-list li{
+  padding-bottom:20px;
+}
